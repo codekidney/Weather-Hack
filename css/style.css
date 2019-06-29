@@ -1,0 +1,11 @@
+body {
+    background: #dedede;
+    font-family: sans-serif;
+    text-align: center;
+}
+.icon img {
+    max-width: 120px;
+}
+.weather {
+    padding: 30px;
+}
